@@ -1,3 +1,6 @@
+Deployed Version :https://hulu-clone-f7cf1.web.app/
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
